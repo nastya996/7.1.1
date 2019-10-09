@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">7.1.1</string>
+    <string name="Synchronization">Синхронизация</string>
+    <string name="good_morning">Доброе утро!</string>
+    <string name="good_evening">Добрый вчечер!</string>
+    <string name="good_afternoon">Добрый день!</string>
+</resources>
